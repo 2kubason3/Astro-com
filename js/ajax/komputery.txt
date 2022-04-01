@@ -1,0 +1,8 @@
+<a onclick="item()">
+            <div class="item">
+                <img src="img/test6.jpg">
+                <span>RTX 2137ti 997GB</span>
+                <span class="kasa">9999,99 ZŁ</span>
+                <div class="buy">Do koszyka</div>
+            </div>
+        </a>

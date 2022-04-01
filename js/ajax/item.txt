@@ -1,0 +1,52 @@
+ <div id="siatka">
+            <div id="foto"><img src="img/test.jpg"></div>
+            <div id="main"> 
+                <h2>Apple IPhone 13 pro 128GB</h2>
+                <p>Dane będą wyciągane z bazy danych dlatego jest pokazowo wpisane na sztywno</p>
+                
+                <div><h3>Do Koszyka</h3></div>
+                <span>8999,99 PLN</span>
+            </div>
+            
+            <div id="spec"><div class="divTable unstyledTable">
+                <div class="divTableBody">
+                <div class="divTableRow">
+                <div class="divTableCell">Procesor</div>
+                <div class="divTableCell">Apple A15 Bionic</div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">Pamieć RAM</div>
+                <div class="divTableCell">6GB</div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">Pamieć Wbudowana</div>
+                <div class="divTableCell">128GB</div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">Typ Ekranu</div>
+                <div class="divTableCell">OLED</div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">Rozdzielczosc ekranu</div>
+                <div class="divTableCell">2532x1170</div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">Rozdzielczosc aparatu</div>
+                <div class="divTableCell">3x12Mpix</div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">Lacznosc</div>
+                <div class="divTableCell">5G, Bluetooth, 5.0, NFC </div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">Zlacza</div>
+                <div class="divTableCell">Lightning, nanoSim</div>
+                </div>
+                <div class="divTableRow">
+                <div class="divTableCell">Typ Baterii</div>
+                <div class="divTableCell">Litowo-jonowa</div>
+                </div>
+                </div>
+                </div></div>
+
+        </div>

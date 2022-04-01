@@ -1,0 +1,84 @@
+
+
+.rejestracja {
+	background-color: whitesmoke;
+	border:2px solid gray;
+	border-radius: 15px;
+	height: 380px;
+	width: 550px;
+	position: relative;
+	overflow: hidden;
+    text-align: center;
+    box-shadow:0px 0px 50px 8px #868484 ;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+    
+}
+.rejestracja > form > input{
+	border:1px solid gray;
+    border-radius: 10px;
+
+    outline: 0;
+    margin-top: 10px;
+    width: 250px;
+    height: 30px;
+
+    
+}
+
+#kwadrat{
+	background-color: rgb(4, 160, 17);
+	border-radius: 10px;
+	height: 45px;
+	width: 50px;
+	position: relative;
+	overflow: hidden;
+    text-align: center;
+	top:20px;
+	left: 40%;
+	margin: 0;
+
+}
+
+#kwadrat2{
+	background-color: rgb(117, 117, 117);
+	border-radius: 10px;
+	height: 45px;
+	width: 50px;
+	position: relative;
+	overflow: hidden;
+    text-align: center;
+	top:-25px;
+	left: 51%;
+
+
+}
+
+
+input[type="submit"]:hover{
+   
+	background-color: rgb(0, 105, 9);
+    color: white;
+}
+input[type="button"]:hover{
+   
+	background-color: rgb(1, 119, 11);
+	color: white;
+	}
+	
+#etap1 > #kwadrat{
+	background-color: rgb(0, 219, 18);
+}	
+#etap1 > #kwadrat2{
+	background-color: rgb(117, 117, 117);
+}
+#etap2 > #kwadrat2{
+	background-color: rgb(0, 219, 18);
+	
+}
+	
+	
+		
+	
+	

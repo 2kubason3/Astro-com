@@ -1,0 +1,8 @@
+ <a onclick="item()">
+            <div class="item">
+                <img src="img/test3.jpg">
+                <span>Przenosny Dysk SSD 1TB </span>
+                <span class="kasa">2137,99 ZŁ</span>
+                <div class="buy">Do koszyka</div>
+            </div>
+        </a>

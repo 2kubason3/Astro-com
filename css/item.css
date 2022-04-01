@@ -1,0 +1,123 @@
+#siatka {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    grid-template-rows: 600px 240px 300px;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+}
+
+#foto {
+    grid-area: 1 / 1 / 2 / 2;
+    background-color: whitesmoke;
+   
+}
+
+#main {
+    grid-area: 1 / 2 / 2 / 3;
+    background-color: whitesmoke;
+    text-align: center;
+    border:10px gray solid;
+}
+
+#spec {
+    grid-area: 2 / 1 / 3 / 3;
+    background-color: whitesmoke;
+}
+
+#opinie {
+    grid-area: 3 / 1 / 4 / 3;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    width: 100%;
+}
+
+#foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#foto>img {
+    margin-top: auto;
+    margin-bottom: auto;
+    border: 2px solid lightgrey;
+    border-radius: 15px;
+    box-shadow: -11px 0px 18px -4px rgba(0,0,0,0.75);
+}
+#main > span{
+    color: gray;
+    margin-left: auto;
+    margin-right: auto;
+}
+#main>div {
+    font-size: large;
+    width: 200px;
+    height: 40px;
+    background-color: lightgrey;
+    border-radius: 20px;
+    margin-top: 250px;
+    margin-left: auto;
+    margin-right:auto;
+    text-align: center;
+}
+#main>div:hover{
+    background-color: gray;
+    cursor: pointer;
+}
+div.unstyledTable {
+    text-align: center;
+    width: 100%;
+}
+
+.divTable.unstyledTable .divTableCell, .divTable.unstyledTable .divTableHead {
+    border: 1px solid #AAAAAA;
+    padding: 3px 2px;
+
+}
+
+.divTable.unstyledTable .divTableRow:nth-child(even) {
+    background: #c4c4c4;
+}
+
+.divTable {
+    display: table;
+}
+
+.divTableRow {
+    display: table-row;
+}
+
+.divTableHeading {
+    display: table-header-group;
+}
+
+.divTableCell, .divTableHead {
+    display: table-cell;
+}
+
+.divTableHeading {
+    display: table-header-group;
+}
+
+.divTableFoot {
+    display: table-footer-group;
+}
+
+.divTableBody {
+    display: table-row-group;
+
+}
+.opinia{
+    width: 100%;
+    height: 70px;
+    background-color: beige;
+    border: 1px solid black;
+}
